@@ -16,7 +16,8 @@ import CHALLENGER from "../assets/CHALLENGER.png";
 import next from "../assets/next.png";
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_BASE_URL || "http://localhost:3001/api";
+  import.meta.env.VITE_API_BASE_URL ||
+  "https://next-front-end.onrender.com/api";
 
 const MATCHES_PAGE_SIZE = 10;
 
