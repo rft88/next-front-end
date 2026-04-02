@@ -14,6 +14,7 @@ import MASTER from "../assets/MASTER.png";
 import GRANDMASTER from "../assets/GRANDMASTER.png";
 import CHALLENGER from "../assets/CHALLENGER.png";
 import next from "../assets/next.png";
+import "./Search.css";
 
 const API_BASE_URL =
   import.meta.env.VITE_API_BASE_URL ||
