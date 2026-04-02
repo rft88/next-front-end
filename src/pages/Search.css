@@ -1,6 +1,6 @@
-adjustments-01 div {
+div.adjustments-01 {
     display: flex !important;
 }
-adjustments-02 div{
+div.adjustments-02 {
     margin-right: auto !important;
 }
