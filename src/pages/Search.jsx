@@ -263,8 +263,8 @@ function Search() {
         {playerData && summonerData && rankedSoloEntry && !loading && (
           <div className="card p-4 shadow-sm mb-4 my-dark-theme-bg-1">
             <div className="row">
-              <div className="col-md-8">
-                <div className="d-flex align-items-center gap-4">
+              <div className="col-md-8 adjustments-01">
+                <div className="d-flex align-items-center gap-4 adjustments-02">
                   <div className="text-center">
                     <img
                       className="rounded-circle"
